@@ -1,0 +1,1 @@
+start .\TestEchoServer\bin\Debug\TestEchoServer.exe
