@@ -1,0 +1,8 @@
+C:\Programming\CSharp\GenshinLikeNetworks\TestEchoServer\bin\Debug\TestEchoServer.exe.config
+C:\Programming\CSharp\GenshinLikeNetworks\TestEchoServer\bin\Debug\TestEchoServer.exe
+C:\Programming\CSharp\GenshinLikeNetworks\TestEchoServer\bin\Debug\TestEchoServer.pdb
+C:\Programming\CSharp\GenshinLikeNetworks\TestEchoServer\obj\Debug\TestEchoServer.csproj.AssemblyReference.cache
+C:\Programming\CSharp\GenshinLikeNetworks\TestEchoServer\obj\Debug\TestEchoServer.csproj.SuggestedBindingRedirects.cache
+C:\Programming\CSharp\GenshinLikeNetworks\TestEchoServer\obj\Debug\TestEchoServer.csproj.CoreCompileInputs.cache
+C:\Programming\CSharp\GenshinLikeNetworks\TestEchoServer\obj\Debug\TestEchoServer.exe
+C:\Programming\CSharp\GenshinLikeNetworks\TestEchoServer\obj\Debug\TestEchoServer.pdb
