@@ -1,0 +1,1 @@
+start .\GenshinLikeAP\bin\Debug\GenshinLikeAP.exe

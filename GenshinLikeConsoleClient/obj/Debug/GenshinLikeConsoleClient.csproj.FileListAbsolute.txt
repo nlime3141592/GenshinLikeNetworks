@@ -1,0 +1,8 @@
+C:\Programming\CSharp\GenshinLikeNetworks\GenshinLikeConsoleClient\bin\Debug\GenshinLikeConsoleClient.exe.config
+C:\Programming\CSharp\GenshinLikeNetworks\GenshinLikeConsoleClient\bin\Debug\GenshinLikeConsoleClient.exe
+C:\Programming\CSharp\GenshinLikeNetworks\GenshinLikeConsoleClient\bin\Debug\GenshinLikeConsoleClient.pdb
+C:\Programming\CSharp\GenshinLikeNetworks\GenshinLikeConsoleClient\obj\Debug\GenshinLikeConsoleClient.csproj.AssemblyReference.cache
+C:\Programming\CSharp\GenshinLikeNetworks\GenshinLikeConsoleClient\obj\Debug\GenshinLikeConsoleClient.csproj.SuggestedBindingRedirects.cache
+C:\Programming\CSharp\GenshinLikeNetworks\GenshinLikeConsoleClient\obj\Debug\GenshinLikeConsoleClient.csproj.CoreCompileInputs.cache
+C:\Programming\CSharp\GenshinLikeNetworks\GenshinLikeConsoleClient\obj\Debug\GenshinLikeConsoleClient.exe
+C:\Programming\CSharp\GenshinLikeNetworks\GenshinLikeConsoleClient\obj\Debug\GenshinLikeConsoleClient.pdb

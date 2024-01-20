@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestEchoServer", "TestEchoS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestEchoClient", "TestEchoClient\TestEchoClient.csproj", "{08077FEC-7F54-4D8C-8364-66EB715A799A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenshinLikeConsoleClient", "GenshinLikeConsoleClient\GenshinLikeConsoleClient.csproj", "{274560AE-EFEF-4588-9BB7-E1321066C180}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenshinLikeAP", "GenshinLikeAP\GenshinLikeAP.csproj", "{34503C16-01A6-4F20-BF14-1651A97664C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{08077FEC-7F54-4D8C-8364-66EB715A799A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08077FEC-7F54-4D8C-8364-66EB715A799A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08077FEC-7F54-4D8C-8364-66EB715A799A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{274560AE-EFEF-4588-9BB7-E1321066C180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{274560AE-EFEF-4588-9BB7-E1321066C180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{274560AE-EFEF-4588-9BB7-E1321066C180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{274560AE-EFEF-4588-9BB7-E1321066C180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34503C16-01A6-4F20-BF14-1651A97664C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34503C16-01A6-4F20-BF14-1651A97664C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34503C16-01A6-4F20-BF14-1651A97664C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34503C16-01A6-4F20-BF14-1651A97664C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

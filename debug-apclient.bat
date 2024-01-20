@@ -1,0 +1,1 @@
+start .\GenshinLikeConsoleClient\bin\Debug\GenshinLikeConsoleClient.exe

@@ -1,0 +1,8 @@
+C:\Programming\CSharp\GenshinLikeNetworks\GenshinLikeAP\bin\Debug\GenshinLikeAP.exe.config
+C:\Programming\CSharp\GenshinLikeNetworks\GenshinLikeAP\bin\Debug\GenshinLikeAP.exe
+C:\Programming\CSharp\GenshinLikeNetworks\GenshinLikeAP\bin\Debug\GenshinLikeAP.pdb
+C:\Programming\CSharp\GenshinLikeNetworks\GenshinLikeAP\obj\Debug\GenshinLikeAP.csproj.AssemblyReference.cache
+C:\Programming\CSharp\GenshinLikeNetworks\GenshinLikeAP\obj\Debug\GenshinLikeAP.csproj.SuggestedBindingRedirects.cache
+C:\Programming\CSharp\GenshinLikeNetworks\GenshinLikeAP\obj\Debug\GenshinLikeAP.csproj.CoreCompileInputs.cache
+C:\Programming\CSharp\GenshinLikeNetworks\GenshinLikeAP\obj\Debug\GenshinLikeAP.exe
+C:\Programming\CSharp\GenshinLikeNetworks\GenshinLikeAP\obj\Debug\GenshinLikeAP.pdb
